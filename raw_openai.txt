@@ -1,0 +1,18 @@
+[AutoProxy 0.2.9]
+! Checksum: O1F+hCrVjaQTr9QTpX0Wpg
+! Expires: 1d
+! Title: Openai Only
+! Scaled-down version of GFWList
+! Last Modified: Wed, 15 Nov 2017 22:07:48 -0500
+!
+! HomePage: https://github.com/ShiratsuYudachi/PAC_config
+! License: free to copy
+
+!##############Tiny List Start###############
+||openai.com
+!##############General List Start###############
+!##############General List End#################
+!##############Tiny List End#################
+!##############Whitelist Start###############
+!##############Whitelist End#################
+!---------------------EOF--------------------
